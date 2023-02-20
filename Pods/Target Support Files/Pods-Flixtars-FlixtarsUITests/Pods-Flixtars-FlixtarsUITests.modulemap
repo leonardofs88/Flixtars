@@ -1,0 +1,6 @@
+framework module Pods_Flixtars_FlixtarsUITests {
+  umbrella header "Pods-Flixtars-FlixtarsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
